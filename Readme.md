@@ -9,5 +9,5 @@ As soluções comerciais existentes, embora eficientes, apresentam altos custos 
 Queremos quebrar barreiras e popularizar as etiquetas digitais de forma acessível.
 
 
-## Leia e entenda sobre o App, Multiorganização e o Monorepo
+## Nossa documentação
 * [Gateway WoofTags — Guia de Configuração](https://github.com/wooftags/docs/blob/main/Gateway%20WoofTags%20%E2%80%94%20Guia%20de%20Configura%C3%A7%C3%A3o.md)
